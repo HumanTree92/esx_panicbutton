@@ -22,7 +22,7 @@ end)
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
-        if IsControlJustReleased(0, 57) and PlayerData.job ~= nil and PlayerData.job.name == 'police' then -- Set to the "F10" Key
+        if IsControlJustReleased(0, 57) and GetLastInputMethod( 0 ) and PlayerData.job ~= nil and PlayerData.job.name == 'police' then -- Set to the "F10" Key
             local ped = PlayerPedId()
             local x,y,z = table.unpack(GetEntityCoords(ped, false))
             local streetName, crossing = GetStreetNameAtCoord(x, y, z)
