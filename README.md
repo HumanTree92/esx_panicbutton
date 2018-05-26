@@ -18,7 +18,5 @@ This is a Police Panic Button for ESX. By default if your Police & you press Key
 4) Add `start esx_panicbutton` to your server.cfg
 
 # Credits/Original Code
-
-# Credits/Original Code
 * Vespura => https://forum.fivem.net/u/vespura
   * Emergency Location Message => https://forum.fivem.net/t/emergency-location-message/55844
