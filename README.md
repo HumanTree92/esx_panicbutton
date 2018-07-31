@@ -8,7 +8,7 @@ This is a Police Panic Button for ESX. By default if your Police & you press Key
 # Requirement:
   
 * Police Job
-  * esx_policejob => https://github.com/ESX-Org/esx_policejob
+  * [esx_policejob](https://github.com/ESX-Org/esx_policejob)
 
 # Installation
 
@@ -18,14 +18,18 @@ This is a Police Panic Button for ESX. By default if your Police & you press Key
 4) Add `start esx_panicbutton` to your server.cfg
 
 # Credits/Original Code
-* Vespura => https://forum.fivem.net/u/vespura
-  * Emergency Location Message => https://forum.fivem.net/t/emergency-location-message/55844
+* [Vespura](https://forum.fivem.net/u/vespura)
+  * [Emergency Location Message](https://forum.fivem.net/t/emergency-location-message/55844)
 
 # Other
 If you like this please check out some of my other stuff like
-* esx_aircraftshop => https://github.com/HumanTree92/esx_aircraftshop
-* esx_boatshop => https://github.com/HumanTree92/esx_boatshop
-* esx_eden_aircraftgarage => https://github.com/HumanTree92/esx_eden_aircraftgarage
-* esx_eden_boatgarage => https://github.com/HumanTree92/esx_eden_boatgarage
-* esx_eden_garage => https://github.com/HumanTree92/esx_eden_garage
-* esx_panicbutton => https://github.com/HumanTree92/esx_panicbutton
+* [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop)
+* [esx_boatshop](https://github.com/HumanTree92/esx_boatshop)
+* [esx_eden_aircraftgarage](https://github.com/HumanTree92/esx_eden_aircraftgarage)
+* [esx_eden_boatgarage](https://github.com/HumanTree92/esx_eden_boatgarage)
+* [esx_eden_garage](https://github.com/HumanTree92/esx_eden_garage)
+* [esx_panicbutton](https://github.com/HumanTree92/esx_panicbutton)
+* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
+
+# If you appreciate any of my work & wish to give me a donation you can go donate to my Company/Community at the link below.
+* [Velociti Entertainment Donations](http://www.velocitientertainment.com/donations/)
