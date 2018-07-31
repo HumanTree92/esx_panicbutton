@@ -10,10 +10,9 @@ This is a Police Panic Button for ESX. By default if your Police & you press Key
 * Police Job
   * [esx_policejob](https://github.com/ESX-Org/esx_policejob)
 
-# Installation
-
-1) CD in your resources/[esx] folder
-2) Clone the repository
+# Download & Installation
+1) Download the .zip.
+2) Extract the .zip or Open the .zip.
 3) Place `esx_panicbutton` in your ESX Directory
 4) Add `start esx_panicbutton` to your server.cfg
 
@@ -30,6 +29,7 @@ If you like this please check out some of my other stuff like
 * [esx_eden_garage](https://github.com/HumanTree92/esx_eden_garage)
 * [esx_panicbutton](https://github.com/HumanTree92/esx_panicbutton)
 * [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
+
 # Visit Velociti Entertainment
 * [TS3](http://www.velocitientertainment.com/ts3/)
 * [Discord](https://discord.gg/azEY2kU)
