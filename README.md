@@ -1,9 +1,7 @@
 # esx_panicbutton
 Panic Button for ESX
 
-I have modified this code from various Panic Buttons. I did this to only work for ESX and to only allow Police be able to use this.
-
-This is a Police Panic Button for ESX. By default if your Police & you press Key F10 it will give you the Name, Street, & Cross Street of the Officer who pressed their Panic Button.
+I have modified this code from various Panic Buttons. I did this to only work for ESX and to only allow Police be able to use this.This is a Police Panic Button for ESX. By default if your Police & you press Key F10 it will give you the Name, Street, & Cross Street of the Officer who pressed their Panic Button.
 
 # Requirement:
   
