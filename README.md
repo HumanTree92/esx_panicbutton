@@ -4,7 +4,6 @@ Panic Button for ESX
 I have modified this code from various Panic Buttons. I did this to only work for ESX and to only allow Police be able to use this.This is a Police Panic Button for ESX. By default if your Police & you press Key F10 it will give you the Name, Street, & Cross Street of the Officer who pressed their Panic Button.
 
 # Requirement:
-  
 * Police Job
   * [esx_policejob](https://github.com/ESX-Org/esx_policejob)
 
@@ -20,6 +19,7 @@ I have modified this code from various Panic Buttons. I did this to only work fo
 
 # Other
 If you like this please check out some of my other stuff like
+* [esx_customui](https://github.com/HumanTree92/esx_customui)
 * [esx_hospital](https://github.com/HumanTree92/esx_hospital)
 * [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
 * [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop)
