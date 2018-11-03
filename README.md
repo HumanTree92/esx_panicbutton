@@ -3,6 +3,9 @@ Panic Button for ESX
 
 I have modified this code from various Panic Buttons. I did this to only work for ESX and to only allow Police be able to use this.This is a Police Panic Button for ESX. By default if your Police & you press Key F10 it will give you the Name, Street, & Cross Street of the Officer who pressed their Panic Button.
 
+# Better ESX Panic Button
+* [CLICK ME FOR BETTER ESX PANIC BUTTON!!!](https://github.com/HumanTree92/esx_panicbutton/wiki/Better-ESX-Panic-Button)
+
 # Requirement:
 * Police Job
   * [esx_policejob](https://github.com/ESX-Org/esx_policejob)
@@ -18,36 +21,7 @@ I have modified this code from various Panic Buttons. I did this to only work fo
   * [Emergency Location Message](https://forum.fivem.net/t/emergency-location-message/55844)
 
 # Support
-I will be closing all suport for this. As there is a much better way to do a Panic Button for the Police Job & have only cops see it. Follow the Steps Below to do the new & better way.
-
-client/main.lua
-```
-Citizen.CreateThread(function()
-	while true do
-		Citizen.Wait(0)
-		if IsControlJustPressed(0, Keys['G']) then
-			SendPoliceDistressSignal()
-		end
-	end
-end)
-
-function SendPoliceDistressSignal()
-	local playerPed = GetPlayerPed(-1)
-	local coords	= GetEntityCoords(playerPed)
-
-	ESX.ShowNotification(_U('distress_sent'))
-	TriggerServerEvent('esx_phone:send', 'police', _U('police_distress_message'), false, {
-		x = coords.x,
-		y = coords.y,
-		z = coords.z
-	})
-end
-```
-locales/en.lua
-```
-  ['distress_sent'] = 'distress signal has been sent to available units!',
-  ['police_distress_message'] = 'police attention required: OFFICER IN NEED OF ASSISTANCE!',
-```
+I will be closing all suport for this. As there is a much better way to do a Panic Button for the Police Job & have only cops see it. Follow the Steps Below to do the new & better way. You can find the better way link at the top.
 
 # Other
 If you like this please check out some of my other stuff like
