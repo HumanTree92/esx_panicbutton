@@ -7,7 +7,7 @@ I have modified this code from various Panic Buttons. I did this to only work fo
 * [CLICK ME FOR BETTER ESX PANIC BUTTON!!!](https://github.com/HumanTree92/esx_panicbutton/wiki/Better-ESX-Panic-Button)
 
 # Requirements:
-* Police Job
+* Required:
   * [esx_policejob](https://github.com/ESX-Org/esx_policejob)
 
 # Download & Installation:
@@ -55,7 +55,7 @@ If you like this please check out some of my other stuff like
 ### License
 esx_panicbutton - Panic Button for ESX Servers.
 
-Copyright (C) 2011-2019 Velociti Entertainment
+Copyright (C) 2011-2020 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
