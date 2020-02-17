@@ -23,19 +23,24 @@ I have modified this code from various Panic Buttons. I did this to only work fo
 # Support:
 I will be closing all suport for this. As there is a much better way to do a Panic Button for the Police Job & have only cops see it. Follow the Steps Below to do the new & better way. You can find the better way link at the top.
 
-# Other:
+# Other Scripts:
 If you like this please check out some of my other stuff like
 * [esx_advancedgarage](https://github.com/HumanTree92/esx_advancedgarage)
+* [esx_advancedvehicleshop](https://github.com/HumanTree92/esx_advancedvehicleshop)
+* [esx_advancedhospital](https://github.com/HumanTree92/esx_advancedhospital)
+* [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
+* [esx_licenseshop](https://github.com/HumanTree92/esx_licenseshop)
+* [esx_vehiclespawner](https://github.com/HumanTree92/esx_vehiclespawner)
+* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
+
+# Archived Scripts:
+Scripts that will no longer be Maintained.
 * [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop)
 * [esx_boatshop](https://github.com/HumanTree92/esx_boatshop)
 * [esx_truckshop](https://github.com/HumanTree92/esx_truckshop)
-* [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
-* [esx_licenseshop](https://github.com/HumanTree92/esx_licenseshop)
 * [esx_plasticsurgery](https://github.com/HumanTree92/esx_plasticsurgery)
-* [esx_vehiclespawner](https://github.com/HumanTree92/esx_vehiclespawner)
 * [esx_hospital](https://github.com/HumanTree92/esx_hospital)
 * [esx_panicbutton](https://github.com/HumanTree92/esx_panicbutton)
-* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
 
 # Visit Velociti Entertainment:
 * TS3 - ts3.velocitientertainment.com
